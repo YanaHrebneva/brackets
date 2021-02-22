@@ -8,5 +8,5 @@ module.exports = function check(str, bracketsConfig) {
       }
     } 
 
-    return str.length != 0;    
+    return str.length == 0;    
 }
